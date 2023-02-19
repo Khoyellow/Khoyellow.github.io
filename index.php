@@ -88,6 +88,7 @@
 		</script>
 	</head>
 	<body>
+		<?php $config['system.core']['block_interest_cohort'] = FALSE; ?>
 		<div id="svelte" class="svelte">
 
 
