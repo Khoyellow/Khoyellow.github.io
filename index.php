@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<meta http-equiv="Permissions-Policy" content="interest-cohort=()"/>
 		<meta charset="utf-8" />
 		<meta
 			name="viewport"
