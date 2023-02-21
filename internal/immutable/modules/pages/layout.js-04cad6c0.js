@@ -1,1 +1,1 @@
-import{p}from"../../chunks/_layout-0ebf6292.js";export{p as prerender};
+import{p}from"../../chunks/layout-0ebf6292.js";export{p as prerender};
